@@ -4,4 +4,21 @@
   <img src="https://lh3.ggpht.com/e3oZddUHSC6EcnxC80rl_6HbY94sM63dn6KrEXJ-C4GIUN-t1XM0uYA_WUwyhbIHmVMH=w300" title="click here" width="200" height="200"/>
 </a>
   </p>
+  </div>
+  <div align=left>
+  <h1>Compilation Reminder on Android device with Android Studio </h1>
+<p><a href="ссылка на видео">
+  <img src="вставить видео" title="click here" width="200" height="200"/>
+</a>
+  </p>
+  </div>
+  <div align=left>
+  <h1>Compilation Reminder on emulator with Android Studio </h1>
+<p><a href="ссылка на видео">
+  <img src="вставить видео" title="click here" width="200" height="200"/>
+</a>
+  </p>
+  </div>
+  
+  
   
